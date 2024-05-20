@@ -1,4 +1,4 @@
-# COB-Web-Development-Intern-Weather-App-Phase-1-Task-2
+# COD-Web-Development-Intern-Weather-App-Phase-1-Task-2
 Name:naga sai swarna madhuri
 ID:ICOD7633
 domain:web development
